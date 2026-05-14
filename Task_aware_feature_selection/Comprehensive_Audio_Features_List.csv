@@ -1,0 +1,49 @@
+Feature,Category,Privacy Label
+Amplitude Envelope,Time-Domain Features,Non-Privacy-Invasive
+Root Mean Square (RMS),Time-Domain Features,Non-Privacy-Invasive
+Zero Crossing Rate (ZCR),Time-Domain Features,Non-Privacy-Invasive
+Peak Value,Time-Domain Features,Non-Privacy-Invasive
+Short-Term Energy (STE),Time-Domain Features,Non-Privacy-Invasive
+Silence Ratio,Time-Domain Features,Grey Zone
+Voice Activity Detection (VAD),Time-Domain Features,Grey Zone
+Attack Time,Time-Domain Features,Non-Privacy-Invasive
+Decay Time,Time-Domain Features,Non-Privacy-Invasive
+Sustain Level,Time-Domain Features,Non-Privacy-Invasive
+Release Time (ADSR envelope),Time-Domain Features,Non-Privacy-Invasive
+Spectral Centroid,Spectral Features,Non-Privacy-Invasive
+Spectral Bandwidth,Spectral Features,Non-Privacy-Invasive
+Spectral Roll-off,Spectral Features,Non-Privacy-Invasive
+Spectral Flux,Spectral Features,Non-Privacy-Invasive
+Spectral Flatness,Spectral Features,Non-Privacy-Invasive
+Spectral Spread,Spectral Features,Non-Privacy-Invasive
+"Filter Banks (Mel, Gammatone)",Spectral Features,Grey Zone
+Harmonic Ratios,Spectral Features,Grey Zone
+Autocorrelation (Autocorr),Spectral Features,Grey Zone
+Mel-Frequency Cepstral Coefficients (MFCCs),Phonetic/Linguistic Features,Grey Zone
+Fundamental Frequency (F0),Phonetic/Linguistic Features,Grey Zone
+"Formant Frequencies (F1, F2)",Phonetic/Linguistic Features,Privacy-Invasive
+Voice Print Features,Phonetic/Linguistic Features,Privacy-Invasive
+Jitter,Phonetic/Linguistic Features,Privacy-Invasive
+Shimmer,Phonetic/Linguistic Features,Privacy-Invasive
+Bark Coefficients,Psychoacoustic Features,Non-Privacy-Invasive
+Loudness,Psychoacoustic Features,Non-Privacy-Invasive
+Sharpness,Psychoacoustic Features,Non-Privacy-Invasive
+Roughness,Psychoacoustic Features,Non-Privacy-Invasive
+Fluctuation Strength,Psychoacoustic Features,Non-Privacy-Invasive
+Tonality,Psychoacoustic Features,Non-Privacy-Invasive
+Timbre,Psychoacoustic Features,Non-Privacy-Invasive
+Reverberation,Psychoacoustic Features,Grey Zone
+Masking Index,Psychoacoustic Features,Grey Zone
+Mean,Statistical Features,Non-Privacy-Invasive
+Variance,Statistical Features,Non-Privacy-Invasive
+Standard Deviation,Statistical Features,Non-Privacy-Invasive
+Kurtosis,Statistical Features,Non-Privacy-Invasive
+Skewness,Statistical Features,Non-Privacy-Invasive
+Entropy,Statistical Features,Non-Privacy-Invasive
+Temporal Centroid,Temporal Features,Non-Privacy-Invasive
+Onset Rate,Temporal Features,Non-Privacy-Invasive
+Event Duration,Temporal Features,Non-Privacy-Invasive
+Modulation Spectrum,Temporal Features,Grey Zone
+Group Delay,Advanced Features,Grey Zone
+Wavelet Transform Features,Advanced Features,Grey Zone
+Raw Audio Representations,Advanced Features,Privacy-Invasive
