@@ -1,0 +1,44 @@
+Feature,Category,Privacy Label
+Amplitude Envelope,Time-Domain Features,Non-Privacy-Invasive
+Root Mean Square (RMS),Time-Domain Features,Non-Privacy-Invasive
+Zero Crossing Rate (ZCR),Time-Domain Features,Non-Privacy-Invasive
+Peak Value,Time-Domain Features,Non-Privacy-Invasive
+Short-Term Energy (STE),Time-Domain Features,Non-Privacy-Invasive
+Temporal Centroid,Time-Domain Features,Non-Privacy-Invasive
+Attack Time,Time-Domain Features,Non-Privacy-Invasive
+Decay Time,Time-Domain Features,Non-Privacy-Invasive
+Sustain Level,Time-Domain Features,Non-Privacy-Invasive
+Release Time (ADSR envelope),Time-Domain Features,Non-Privacy-Invasive
+Silence Ratio,Time-Domain Features,Grey Zone
+Spectral Centroid,Spectral Features,Non-Privacy-Invasive
+Spectral Bandwidth,Spectral Features,Non-Privacy-Invasive
+Spectral Roll-off,Spectral Features,Non-Privacy-Invasive
+Spectral Flux,Spectral Features,Non-Privacy-Invasive
+Spectral Flatness,Spectral Features,Non-Privacy-Invasive
+Spectral Spread,Spectral Features,Non-Privacy-Invasive
+Fundamental Frequency (F0),Phonetic/Linguistic Features,Grey Zone
+Mel-Frequency Cepstral Coefficients (MFCCs),Phonetic/Linguistic Features,Grey Zone
+Harmonic Ratios,Phonetic/Linguistic Features,Grey Zone
+Formant Frequencies,Phonetic/Linguistic Features,Privacy-Invasive
+Filter Banks,Phonetic/Linguistic Features,Grey Zone
+Mean,Statistical Features,Non-Privacy-Invasive
+Variance,Statistical Features,Non-Privacy-Invasive
+Standard Deviation,Statistical Features,Non-Privacy-Invasive
+Kurtosis,Statistical Features,Non-Privacy-Invasive
+Skewness,Statistical Features,Non-Privacy-Invasive
+Entropy,Statistical Features,Non-Privacy-Invasive
+Loudness,Perceptual Features,Non-Privacy-Invasive
+Sharpness,Perceptual Features,Non-Privacy-Invasive
+Roughness,Perceptual Features,Non-Privacy-Invasive
+Fluctuation Strength,Perceptual Features,Non-Privacy-Invasive
+Tonality,Perceptual Features,Non-Privacy-Invasive
+Timbre,Perceptual Features,Non-Privacy-Invasive
+Reverberation,Perceptual Features,Grey Zone
+Bark Coefficients,Perceptual Features,Non-Privacy-Invasive
+Pitch,Voice-Specific Features,Grey Zone
+Harmonics-to-Noise Ratio (HNR),Voice-Specific Features,Grey Zone
+Jitter,Voice-Specific Features,Privacy-Invasive
+Shimmer,Voice-Specific Features,Privacy-Invasive
+Harmonic Ratios,Spectral Features,Grey Zone
+Group Delay,Advanced Features,Grey Zone
+Wavelet Transform Features,Advanced Features,Grey Zone

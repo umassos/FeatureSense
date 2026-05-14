@@ -1,0 +1,18 @@
+Feature,Category,Privacy Label
+Amplitude Envelope,Time-Domain Features,Non-Privacy-Invasive
+Root Mean Square (RMS),Time-Domain Features,Non-Privacy-Invasive
+Zero Crossing Rate (ZCR),Time-Domain Features,Non-Privacy-Invasive
+Temporal Centroid,Time-Domain Features,Non-Privacy-Invasive
+Silence Ratio,Time-Domain Features,Grey Zone
+Speech-to-Text Features,Time-Domain Features,Privacy-Invasive
+Spectral Centroid,Frequency-Domain Features,Non-Privacy-Invasive
+Spectral Bandwidth,Frequency-Domain Features,Non-Privacy-Invasive
+MFCCs,Frequency-Domain Features,Grey Zone
+Voice Print Features,Frequency-Domain Features,Privacy-Invasive
+Mean,Statistical Features,Non-Privacy-Invasive
+Variance,Statistical Features,Non-Privacy-Invasive
+Kurtosis,Statistical Features,Non-Privacy-Invasive
+Emotion Recognition Features,Perceptual Features,Privacy-Invasive
+Loudness,Perceptual Features,Non-Privacy-Invasive
+Accent Recognition,Perceptual Features,Privacy-Invasive
+Fundamental Frequency (F0),Frequency-Domain Features,Grey Zone

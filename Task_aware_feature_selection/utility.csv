@@ -1,0 +1,38 @@
+Feature,Utility
+Chroma Features,0.048239
+Spectral Contrast,0.045693
+Tonality Index,0.045091
+Envelop Modulation rate,0.044796
+HNR,0.04165
+Spectral Spread,0.041365
+Timbre,0.040784
+Spectral Entropy,0.039498
+Spectral Centroid,0.03753
+LH1000,0.036804
+Mid Band Energy,0.036419
+Kurtosis,0.035594
+Zero Crossing Rate (ZCR),0.035149
+Low Band Energy,0.033648
+Wavelet Features,0.028046
+High Band Energy,0.026958
+Spectral Flatness,0.025953
+Shimmer,0.02457
+Jitter,0.024315
+Mean,0.024138
+Amplitude Envelope,0.021351
+Silence Ratio,0.020964
+Spectral Roughness,0.020817
+Spectral Irregularity,0.020183
+Skewness,0.019976
+Sharpness,0.019888
+Group Delay,0.018954
+Transient-to-Sustained Ratio,0.017894
+Spectral Texture Coefficients,0.016513
+Entropy,0.015365
+Variance,0.015072
+Temporal Centroid,0.01505
+Short-Term Energy (STE),0.015026
+Standard Deviation,0.014913
+RMS,0.014432
+Temporal Spectral Slope,0.01233
+Reverberation,0.005032

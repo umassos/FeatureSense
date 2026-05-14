@@ -1,0 +1,166 @@
+Subset,AUC
+"('Envelop Modulation rate', 'Temporal Spectral Slope', 'Kurtosis')",0.5357611108407626
+"('Envelop Modulation rate', 'Temporal Spectral Slope')",0.534327401566646
+"('Envelop Modulation rate', 'Kurtosis')",0.529552771312186
+"('Envelop Modulation rate', 'Temporal Spectral Slope', 'Skewness')",0.5216360618784401
+"('Silence Ratio', 'Envelop Modulation rate', 'Temporal Spectral Slope')",0.5204904915647136
+"('Temporal Spectral Slope', 'Kurtosis')",0.5193076231065158
+"('Envelop Modulation rate', 'Skewness', 'Kurtosis')",0.5182585807873381
+"('Envelop Modulation rate', 'Skewness')",0.5180837634242789
+"('Silence Ratio', 'Envelop Modulation rate', 'Kurtosis')",0.5152476417510451
+"('Silence Ratio', 'Envelop Modulation rate')",0.514430368761137
+"('Spectral Contrast', 'Envelop Modulation rate', 'Temporal Spectral Slope')",0.5119359383311033
+"('Envelop Modulation rate', 'Temporal Spectral Slope', 'Wavelet Features')",0.5114892313301912
+"('Envelop Modulation rate', 'Temporal Spectral Slope', 'Low Band Energy')",0.5102813498502062
+"('Skewness', 'Kurtosis')",0.5100628293716755
+"('Spectral Contrast', 'Envelop Modulation rate', 'Kurtosis')",0.5062492787750797
+"('Silence Ratio', 'Envelop Modulation rate', 'Skewness')",0.5055510429167116
+"('Silence Ratio', 'Envelop Modulation rate', 'Low Band Energy')",0.5048963394338223
+"('Spectral Contrast', 'Envelop Modulation rate')",0.5042599806260267
+"('Envelop Modulation rate', 'Wavelet Features')",0.5041403505226166
+"('Envelop Modulation rate', 'Kurtosis', 'Wavelet Features')",0.5039416546030099
+"('Silence Ratio', 'Envelop Modulation rate', 'Wavelet Features')",0.5037598542532565
+"('Envelop Modulation rate', 'Wavelet Features', 'Low Band Energy')",0.5031794418452227
+"('Envelop Modulation rate', 'Low Band Energy')",0.5029964751910939
+"('Envelop Modulation rate', 'Kurtosis', 'Low Band Energy')",0.5022314488077965
+"('Spectral Contrast', 'Envelop Modulation rate', 'Skewness')",0.49939411074650497
+"('Envelop Modulation rate', 'Skewness', 'Wavelet Features')",0.4961866216385647
+"('Envelop Modulation rate', 'Skewness', 'Low Band Energy')",0.495240140837556
+"('Temporal Spectral Slope', 'Skewness', 'Kurtosis')",0.492171304280791
+"('Silence Ratio', 'Spectral Contrast', 'Envelop Modulation rate')",0.488231301135742
+"('Kurtosis', 'Wavelet Features')",0.4878085708654603
+"('Silence Ratio', 'Temporal Spectral Slope', 'Kurtosis')",0.48706532911231487
+"('Temporal Spectral Slope', 'Skewness')",0.48653715898876587
+"('Silence Ratio', 'Temporal Spectral Slope')",0.4814752991390756
+"('Spectral Contrast', 'Temporal Spectral Slope', 'Kurtosis')",0.480954669860836
+"('Spectral Contrast', 'Kurtosis')",0.4806157807147298
+"('Silence Ratio', 'Kurtosis')",0.4774409320873804
+"('Chroma Features', 'Envelop Modulation rate', 'Temporal Spectral Slope')",0.47649186512588654
+"('Skewness', 'Kurtosis', 'Wavelet Features')",0.4758355096562907
+"('Spectral Contrast', 'Temporal Spectral Slope')",0.4753994511354211
+"('Silence Ratio', 'Temporal Spectral Slope', 'Low Band Energy')",0.47327577358142836
+"('Temporal Spectral Slope', 'Kurtosis', 'Low Band Energy')",0.4729015403122007
+"('Temporal Spectral Slope', 'Kurtosis', 'Wavelet Features')",0.4728721914831792
+"('Temporal Spectral Slope', 'Low Band Energy')",0.4709844231215965
+"('Temporal Spectral Slope', 'Wavelet Features', 'Low Band Energy')",0.4709794117172817
+"('Silence Ratio', 'Temporal Spectral Slope', 'Wavelet Features')",0.4707860239076818
+"('Chroma Features', 'Envelop Modulation rate')",0.46953254165936986
+"('Chroma Features', 'Envelop Modulation rate', 'Kurtosis')",0.46942152800084674
+"('Temporal Spectral Slope', 'Wavelet Features')",0.4689428466580224
+"('Silence Ratio', 'Temporal Spectral Slope', 'Skewness')",0.46886978258280215
+"('Timbre', 'Envelop Modulation rate', 'Temporal Spectral Slope')",0.4688364544416998
+"('Spectral Contrast', 'Envelop Modulation rate', 'Wavelet Features')",0.46787656245391956
+"('Spectral Contrast', 'Envelop Modulation rate', 'Low Band Energy')",0.46742844317367344
+"('Chroma Features', 'Spectral Contrast', 'Envelop Modulation rate')",0.46658324554647507
+"('Chroma Features', 'Envelop Modulation rate', 'Skewness')",0.4660967298552113
+"('Spectral Contrast', 'Temporal Spectral Slope', 'Skewness')",0.46506049947586076
+"('Chroma Features', 'Silence Ratio', 'Envelop Modulation rate')",0.46448691503387735
+"('Silence Ratio', 'Kurtosis', 'Low Band Energy')",0.4642892459856101
+"('Silence Ratio', 'Kurtosis', 'Wavelet Features')",0.4638538636663478
+"('Silence Ratio', 'Skewness', 'Kurtosis')",0.4631771676162599
+"('Temporal Spectral Slope', 'Skewness', 'Low Band Energy')",0.46121279084204286
+"('Timbre', 'Envelop Modulation rate')",0.46043394532295645
+"('Spectral Contrast', 'Skewness', 'Kurtosis')",0.46026760426950997
+"('Silence Ratio', 'Wavelet Features', 'Low Band Energy')",0.45948905498061166
+"('Timbre', 'Envelop Modulation rate', 'Low Band Energy')",0.45894242832298787
+"('Temporal Spectral Slope', 'Skewness', 'Wavelet Features')",0.4586280394353765
+"('Timbre', 'Silence Ratio', 'Envelop Modulation rate')",0.45855876861358036
+"('Silence Ratio', 'Low Band Energy')",0.45839390592551066
+"('Timbre', 'Envelop Modulation rate', 'Kurtosis')",0.4580603152965161
+"('Silence Ratio', 'Spectral Contrast', 'Temporal Spectral Slope')",0.4570293069171741
+"('Silence Ratio', 'Wavelet Features')",0.45542437799405217
+"('Timbre', 'Envelop Modulation rate', 'Skewness')",0.45402768610793376
+"('Timbre', 'Envelop Modulation rate', 'Wavelet Features')",0.45366630586518153
+"('Silence Ratio', 'Skewness')",0.45145892096608736
+"('Silence Ratio', 'Skewness', 'Low Band Energy')",0.4504261579441571
+"('Silence Ratio', 'Spectral Contrast', 'Kurtosis')",0.4503990204768919
+"('Silence Ratio', 'Skewness', 'Wavelet Features')",0.4482234973677417
+"('Timbre', 'Temporal Spectral Slope', 'Low Band Energy')",0.4467307521930515
+"('Chroma Features', 'Envelop Modulation rate', 'Low Band Energy')",0.44646266048414757
+"('Chroma Features', 'Envelop Modulation rate', 'Wavelet Features')",0.44612870425519313
+"('Kurtosis', 'Wavelet Features', 'Low Band Energy')",0.446101419912948
+"('Kurtosis', 'Low Band Energy')",0.44609820654744997
+"('Spectral Contrast', 'Skewness')",0.44480966487507834
+"('Silence Ratio', 'Spectral Contrast')",0.44081692651979276
+"('Spectral Contrast', 'Kurtosis', 'Wavelet Features')",0.440062868937793
+"('Skewness', 'Kurtosis', 'Low Band Energy')",0.43851785811843724
+"('Wavelet Features', 'Low Band Energy')",0.4372456707628469
+"('Spectral Contrast', 'Temporal Spectral Slope', 'Low Band Energy')",0.43491728133567564
+"('Timbre', 'Temporal Spectral Slope', 'Kurtosis')",0.4343896298892567
+"('Chroma Features', 'Temporal Spectral Slope', 'Kurtosis')",0.43434981197535594
+"('Skewness', 'Wavelet Features', 'Low Band Energy')",0.4341357537352902
+"('Silence Ratio', 'Spectral Contrast', 'Skewness')",0.43376984772587507
+"('Timbre', 'Temporal Spectral Slope')",0.43372850213163305
+"('Spectral Contrast', 'Temporal Spectral Slope', 'Wavelet Features')",0.4335901182727738
+"('Timbre', 'Silence Ratio', 'Temporal Spectral Slope')",0.43354555340784323
+"('Timbre', 'Silence Ratio', 'Low Band Energy')",0.4327411558724028
+"('Skewness', 'Low Band Energy')",0.43179982325536725
+"('Timbre', 'Kurtosis', 'Low Band Energy')",0.4310842382637105
+"('Chroma Features', 'Temporal Spectral Slope')",0.43006247443432816
+"('Timbre', 'Temporal Spectral Slope', 'Wavelet Features')",0.4296127269937136
+"('Timbre', 'Low Band Energy')",0.42883395805605734
+"('Chroma Features', 'Silence Ratio', 'Temporal Spectral Slope')",0.4285778012712689
+"('Skewness', 'Wavelet Features')",0.4267144689511007
+"('Chroma Features', 'Spectral Contrast', 'Temporal Spectral Slope')",0.42625811587589535
+"('Silence Ratio', 'Spectral Contrast', 'Low Band Energy')",0.4255677028193295
+"('Timbre', 'Temporal Spectral Slope', 'Skewness')",0.4255627793980828
+"('Silence Ratio', 'Spectral Contrast', 'Wavelet Features')",0.42502953577708585
+"('Chroma Features', 'Temporal Spectral Slope', 'Skewness')",0.42439389391449306
+"('Timbre', 'Wavelet Features', 'Low Band Energy')",0.4229778422928681
+"('Timbre', 'Kurtosis')",0.42158489460964527
+"('Timbre', 'Skewness', 'Low Band Energy')",0.42021716775753354
+"('Timbre', 'Silence Ratio', 'Wavelet Features')",0.4196216065123782
+"('Timbre', 'Kurtosis', 'Wavelet Features')",0.41901604275777055
+"('Timbre', 'Silence Ratio', 'Kurtosis')",0.4182229332751873
+"('Spectral Contrast', 'Kurtosis', 'Low Band Energy')",0.41665097055967554
+"('Spectral Contrast', 'Wavelet Features')",0.4165047331899125
+"('Timbre', 'Spectral Contrast', 'Envelop Modulation rate')",0.415595809302905
+"('Timbre', 'Wavelet Features')",0.4154906199194095
+"('Timbre', 'Skewness', 'Kurtosis')",0.41375981319291816
+"('Chroma Features', 'Kurtosis')",0.41327091938146515
+"('Timbre', 'Silence Ratio')",0.4128846897256486
+"('Chroma Features', 'Silence Ratio', 'Spectral Contrast')",0.4124387476607437
+"('Chroma Features', 'Timbre', 'Envelop Modulation rate')",0.41123397629507297
+"('Chroma Features', 'Spectral Contrast', 'Kurtosis')",0.4109131915416677
+"('Chroma Features', 'Temporal Spectral Slope', 'Low Band Energy')",0.4089282058384199
+"('Chroma Features', 'Silence Ratio', 'Kurtosis')",0.4088601266254665
+"('Spectral Contrast', 'Skewness', 'Wavelet Features')",0.408618787001689
+"('Spectral Contrast', 'Wavelet Features', 'Low Band Energy')",0.40821327456751827
+"('Chroma Features', 'Spectral Contrast')",0.407454761914396
+"('Chroma Features', 'Temporal Spectral Slope', 'Wavelet Features')",0.40743527623153386
+"('Chroma Features', 'Silence Ratio')",0.40675875241935705
+"('Timbre', 'Skewness', 'Wavelet Features')",0.4062808383287247
+"('Timbre', 'Skewness')",0.40592585769626927
+"('Timbre', 'Silence Ratio', 'Skewness')",0.4041006965523828
+"('Chroma Features', 'Skewness', 'Kurtosis')",0.40127932729138366
+"('Spectral Contrast', 'Low Band Energy')",0.40069330880257853
+"('Chroma Features', 'Silence Ratio', 'Skewness')",0.3992586916919567
+"('Spectral Contrast', 'Skewness', 'Low Band Energy')",0.3984683214087023
+"('Chroma Features', 'Spectral Contrast', 'Skewness')",0.39607292161351076
+"('Chroma Features', 'Skewness')",0.39483892496316325
+"('Chroma Features', 'Silence Ratio', 'Wavelet Features')",0.3943388003306915
+"('Chroma Features', 'Silence Ratio', 'Low Band Energy')",0.39360767686703896
+"('Timbre', 'Spectral Contrast', 'Low Band Energy')",0.39283592091784536
+"('Chroma Features', 'Kurtosis', 'Wavelet Features')",0.3926314119375028
+"('Timbre', 'Spectral Contrast', 'Temporal Spectral Slope')",0.390568274853079
+"('Timbre', 'Spectral Contrast', 'Kurtosis')",0.38542319146029264
+"('Chroma Features', 'Spectral Contrast', 'Wavelet Features')",0.3846118029027208
+"('Chroma Features', 'Kurtosis', 'Low Band Energy')",0.3841434133938389
+"('Chroma Features', 'Timbre', 'Temporal Spectral Slope')",0.38244152840228995
+"('Chroma Features', 'Timbre', 'Low Band Energy')",0.3805248512065634
+"('Chroma Features', 'Spectral Contrast', 'Low Band Energy')",0.37996723577034186
+"('Chroma Features', 'Wavelet Features', 'Low Band Energy')",0.3794255393774622
+"('Timbre', 'Spectral Contrast', 'Wavelet Features')",0.3789153363405158
+"('Chroma Features', 'Low Band Energy')",0.37727817677177916
+"('Chroma Features', 'Wavelet Features')",0.37670609423102963
+"('Chroma Features', 'Timbre', 'Kurtosis')",0.37414989376226293
+"('Timbre', 'Spectral Contrast')",0.37386396324283405
+"('Chroma Features', 'Skewness', 'Wavelet Features')",0.3734229434159017
+"('Timbre', 'Silence Ratio', 'Spectral Contrast')",0.3728992175964733
+"('Chroma Features', 'Timbre', 'Wavelet Features')",0.372661347785888
+"('Chroma Features', 'Skewness', 'Low Band Energy')",0.3717499921924954
+"('Timbre', 'Spectral Contrast', 'Skewness')",0.37038267088612603
+"('Chroma Features', 'Timbre', 'Spectral Contrast')",0.36916936880253837
+"('Chroma Features', 'Timbre')",0.3635420647665184
+"('Chroma Features', 'Timbre', 'Silence Ratio')",0.36064779324073065
+"('Chroma Features', 'Timbre', 'Skewness')",0.35700407092559505

@@ -1,0 +1,9 @@
+Category,Features,Privacy Impact
+Time-Domain Features,"Amplitude Envelope, RMS, ZCR, Temporal Centroid",Non-Privacy-Invasive
+Frequency-Domain Features,"Spectral Centroid, Bandwidth, Flatness, Contrast, Rolloff, Harmonic Components",Non-Privacy-Invasive
+Perceptual Features,"MFCCs, Bark Scale Features, Chroma Features, Loudness, Tonal Dissonance",Grey Zone
+Voice-Specific Features,"Pitch, HNR, Jitter, Shimmer, Formants",Privacy-Invasive
+Temporal Features,"Short-Term Energy, Attack Time, Decay Time, Temporal Modulation",Grey Zone
+Statistical Features,"Mean, Variance, Skewness, Kurtosis, Covariance",Non-Privacy-Invasive
+High-Level Semantic Features,"Speech Content, Emotion Recognition, Speaker Identity, Sound Event, Music Genre",Privacy-Invasive
+Advanced Features,"Group Delay, Phase Features, Wavelet Features, Raw Audio Representations",Grey Zone

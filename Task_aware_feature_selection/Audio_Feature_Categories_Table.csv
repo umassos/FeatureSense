@@ -1,0 +1,10 @@
+Category,Features
+Time Domain Analysis,"RMS, ZCR, Peak Value, STE"
+Spectral Features,"Spectral Centroid, Spectral Rolloff, Spectral Flatness, Spectral Spread"
+Harmonic Features,"Pitch, Harmonics-to-Noise Ratio (HNR)"
+Phonetic/Linguistic Features,"Formants, Filter Banks, MFCCs"
+Time-Frequency Features,"Spectral Flux, Group Delay"
+Perceptual Features,"Timbre, Reverberation"
+Psychoacoustic Features,Bark Coefficients
+Derived Features,"Energy Balance Metric, LH1000, Power Ratios"
+Statistical Features,"Mean, Standard Deviation, Skewness"
