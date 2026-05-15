@@ -67,7 +67,5 @@ scipy
 librosa
 PyWavelets
 scikit-learn
-
-
-
+```
 
