@@ -1,8 +1,4 @@
 # FeatureSense
-Privacy-aware audio features library
-
-
-# FeatureSense
 
 FeatureSense is a Python library for privacy-aware audio feature extraction for always-on, non-speech audio sensing applications.
 
