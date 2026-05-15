@@ -39,7 +39,8 @@ df = extract_privacy_features(
     feature_list=features,
     window_size=0.5,
     hop_size=0.25,
-)   ```
+)
+```
 
 
 ## Optimize Features for Privacy-Utility-Cost Tradeoff
@@ -51,7 +52,8 @@ selected = optimize_features_with_puc_tradeoff(
     alpha=0.5,
 )
 
-print(selected) ```
+print(selected)
+```
 
 
 ## Get Feature Metrics
