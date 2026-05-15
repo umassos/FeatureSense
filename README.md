@@ -16,7 +16,6 @@ pip install -e .
 ## Basic Usage
 
 ```from featuresense import extract_privacy_features
-
 df = extract_privacy_features(
     audio="example.wav",
     window_size=0.5,
@@ -29,7 +28,6 @@ print(df.head())
 ## Select Specific Features
 
 ``` features = ["rms", "zcr", "spectral_centroid", "spectral_entropy"]
-
 df = extract_privacy_features(
     audio="example.wav",
     feature_list=features,
@@ -42,7 +40,6 @@ df = extract_privacy_features(
 ## Optimize Features for Privacy-Utility-Cost Tradeoff
 
 ``` from featuresense import optimize_features_with_puc_tradeoff
-
 selected = optimize_features_with_puc_tradeoff(
     latency=5.0,
     alpha=0.5,
@@ -55,7 +52,6 @@ print(selected)
 ## Get Feature Metrics
 
 ```from featuresense import get_metrics
-
 metrics = get_metrics()
 print(metrics)
 ```
