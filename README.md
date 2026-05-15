@@ -18,7 +18,7 @@ pip install -e .
 
 ## Basic Usage
 
-'''from featuresense import extract_privacy_features
+```from featuresense import extract_privacy_features
 
 df = extract_privacy_features(
     audio="example.wav",
@@ -27,7 +27,7 @@ df = extract_privacy_features(
     target_sr=16000,
 )
 
-print(df.head())'''
+print(df.head())
 
 
 
