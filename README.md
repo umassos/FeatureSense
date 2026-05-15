@@ -52,14 +52,12 @@ selected = optimize_features_with_puc_tradeoff(
     alpha=0.5,
 )
 
-print(selected)
-```
+print(selected)```
 
 
 ## Get Feature Metrics
 
-```
-from featuresense import get_metrics
+```from featuresense import get_metrics
 
 metrics = get_metrics()
 print(metrics)
