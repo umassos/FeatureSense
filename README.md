@@ -7,7 +7,7 @@ Instead of exposing raw audio, FeatureSense extracts low-dimensional audio featu
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/featuresense.git
+git clone https://github.com/umassos/featuresense.git
 cd featuresense
 pip install -e .
 ```
