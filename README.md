@@ -14,6 +14,7 @@ Instead of exposing raw audio, FeatureSense extracts low-dimensional audio featu
 git clone https://github.com/<your-username>/featuresense.git
 cd featuresense
 pip install -e .
+```
 
 
 ## Basic Usage
@@ -26,6 +27,7 @@ df = extract_privacy_features(
     hop_size=0.25,
     target_sr=16000,
 )
+```
 
 print(df.head())
 
